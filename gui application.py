@@ -28,7 +28,7 @@ labeo.pack()
 #-----------------------background colour-----------------------------------------------#
 root.config(background="blue");
 
-label3=Label(text="MENU",font=("italian",20,"bold"),fg="blue",bg="red")
+label3=Label(text="MENU",font=("italian",20,"bold"),fg="blue",bg="yellow")
 label3.config(width=28,height=2);
 label3.pack(anchor=W);
 #-----------------------------------------------menu------------------------------------------
